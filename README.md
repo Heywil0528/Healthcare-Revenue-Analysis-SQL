@@ -1,5 +1,5 @@
 # Healthcare-Revenue-Analysis-SQL
-# Healthcare Revenue Cycle SQL Portfolio
+
 
 ## About This Project
 
