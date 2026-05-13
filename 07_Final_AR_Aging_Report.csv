@@ -1,0 +1,31 @@
+"rank_no","claim_id","payer_name","smoker","region","billed_amount","claim_status","days_past_due","denial_reason"
+1,544,"BlueCross","no","southwest",63770.43,"Denied",706,"Prior Authorization Required"
+2,1301,"BlueCross","no","southwest",62592.87,"Denied",630,"Prior Authorization Required"
+3,1231,"Medicare","yes","northwest",60021.40,"Denied",776,"Prior Authorization Required"
+4,578,"United Healthcare","no","southeast",58571.07,"Denied",749,"Prior Authorization Required"
+5,820,"Aetna","no","southeast",55135.40,"Denied",554,"Prior Authorization Required"
+6,1147,"Cigna","yes","northeast",52590.83,"Pending",581,NULL
+7,35,"Cigna","no","northwest",51194.56,"Denied",1090,"Prior Authorization Required"
+8,1242,"United Healthcare","no","southwest",49577.66,"Pending",601,NULL
+9,1063,"United Healthcare","yes","southwest",48970.25,"Pending",1056,NULL
+10,489,"Aetna","no","northeast",48885.14,"Denied",637,"Prior Authorization Required"
+11,176,"United Healthcare","no","southwest",48824.45,"Denied",874,"Prior Authorization Required"
+12,902,"United Healthcare","no","southwest",48673.56,"Denied",950,"Prior Authorization Required"
+13,282,"United Healthcare","yes","southwest",48549.18,"Denied",990,"Prior Authorization Required"
+14,331,"Medicaid","no","southwest",48517.56,"Pending",379,NULL
+15,40,"Medicaid","yes","southwest",48173.36,"Denied",545,"Prior Authorization Required"
+16,289,"Humana","no","southeast",47896.79,"Pending",376,NULL
+17,56,"Medicaid","yes","southwest",47496.49,"Denied",629,"Prior Authorization Required"
+18,952,"Kaiser","no","northwest",47462.89,"Denied",935,"Prior Authorization Required"
+19,252,"BlueCross","yes","southwest",47305.31,"Pending",666,NULL
+20,95,"Medicaid","yes","southwest",47291.06,"Denied",439,"Prior Authorization Required"
+21,1241,"Kaiser","no","northwest",47269.85,"Pending",424,NULL
+22,110,"United Healthcare","no","southeast",47055.53,"Denied",489,"Prior Authorization Required"
+23,421,"United Healthcare","no","southeast",46889.26,"Denied",756,"Prior Authorization Required"
+24,1123,"Medicare","no","northwest",46661.44,"Denied",711,"Prior Authorization Required"
+25,422,"United Healthcare","no","southwest",46599.11,"Denied",721,"Prior Authorization Required"
+26,884,"BlueCross","no","southwest",46255.11,"Pending",1057,NULL
+27,675,"BlueCross","no","southwest",46200.99,"Pending",687,NULL
+28,678,"Aetna","no","southeast",46130.53,"Denied",442,"Prior Authorization Required"
+29,861,"United Healthcare","yes","southwest",46113.51,"Denied",996,"Prior Authorization Required"
+30,669,"Kaiser","no","northwest",45710.21,"Denied",439,"Prior Authorization Required"
