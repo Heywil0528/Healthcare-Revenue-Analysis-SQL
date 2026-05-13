@@ -27,21 +27,15 @@ Core expertise applied in this project:
 
 ## Repository Structure
 
-```
-📁 scripts/
-  └── 02_Projects/
-      ├── task_01_denial_analysis.sql
-      ├── task_02_cost_analysis_age_group.sql
-      ├── task_03_ar_aging.sql
-      ├── task_04_payer_priority.sql
-      ├── task_05_monthly_trend.sql
-      ├── task_06_top5_payer_ranking.sql
-      └── task_07_final_ar_aging_report.sql
-📁 outputs/
-  ├── screenshots/
-  └── reports/
-      └── 07_Final_AR_Aging_Report.csv
-```
+- **Main Directory**: Contains core SQL analysis scripts.
+  - 01_Denial_Analysis_Final.sql
+  - 02_Cost_Analysis_Final.sql
+  - 03_AR_Aging_Analysis.sql
+  - 04_Payer_Collection_Priority.sql
+  - 05_Monthly_Trend_Analysis.sql
+  - 06_Top_5_Payer_Ranking.sql
+  - 07_Final_AR_Aging_Report.sql
+- **outputs/**: Screenshots and final report exports.
 
 ---
 
